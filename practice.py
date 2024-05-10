@@ -13,11 +13,13 @@ def display_frac_as_decimal(top_of_frac, bot_of_frac):
     
     
 
-
+def addleo():
+    print("Leo added this :)")
 
 # Then add call to main
 def main():
     display_frac_as_decimal(52,234)
+    addleo()
     
 
 main()
