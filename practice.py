@@ -8,8 +8,9 @@ def display_frac_as_decimal(top_of_frac, bot_of_frac):
     print(top_of_frac)
     for i in range(max_digit):
         print('-',end='')
-    print(f' = {dec:.3f}')
-    print (f'{bot_of_frac}\n')
+    print(f'Result  = {dec:.3f}')
+    print (f' Result {bot_of_frac}\n')
+    
     
 
 
