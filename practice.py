@@ -21,6 +21,7 @@ def Emmanuel():
 def main():
     display_frac_as_decimal(52,234)
     addleo()
+    Emmanuel()
     
 
 main()
